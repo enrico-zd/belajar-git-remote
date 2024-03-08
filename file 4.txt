@@ -1,1 +1,2 @@
 ini adalah file 4
+melakukan penambahakn kalimat dari file 4 contoh squash
