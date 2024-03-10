@@ -1,2 +1,3 @@
 ini adalah file 3
 nambahkan file 2 dari feature/b commit ke 2
+menambahkan file 3 dari feature/a commit ke 1
