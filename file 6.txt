@@ -1,1 +1,2 @@
 ini file 6 baru dari feature/c commit ke-2
+menambahkan file 6 pada feature/c 
