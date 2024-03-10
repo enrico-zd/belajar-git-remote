@@ -1,2 +1,3 @@
 ini adalah file 1
 feature rebasse file 1
+menambahkan file 1 di master
