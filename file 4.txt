@@ -1,6 +1,2 @@
 ini adalah file 4
-<<<<<<< Updated upstream
-melakukan penambahakn kalimat dari file 4 contoh squash
-=======
 perubahan di file 4 pada feature/b
->>>>>>> Stashed changes
