@@ -1,4 +1,8 @@
 ini adalah file 1
 feature rebasse file 1
+<<<<<<< HEAD
 menambahkan file 1 di master
 menambahkan file 1 di feature/a commit ke 2
+=======
+menambahkan file 1 di master
+>>>>>>> aff6c66 (membuat perubahan di master file 1)
