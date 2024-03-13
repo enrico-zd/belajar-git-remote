@@ -1,5 +1,6 @@
 ini adalah file 4
 <<<<<<< HEAD
+<<<<<<< HEAD
 melakukan penambahakn kalimat dari file 4 contoh squash
 =======
 <<<<<<< HEAD
@@ -8,3 +9,6 @@ menambah file 4 dari master
 melakukan penambahakn kalimat dari file 4 contoh squash
 >>>>>>> feature/c
 >>>>>>> 771b4a5 (fix konflik)
+=======
+melakukan penambahakn kalimat dari file 4 contoh squash
+>>>>>>> 8853922 (fix konflik)
